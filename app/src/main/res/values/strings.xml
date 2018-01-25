@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">NoAssemblyRequired</string>
+    <string name="title">Learn to Build</string>
+    <string name="dresser">Dresser</string>
+    <string name="bicycle">Bicycle</string>
+    <string name="patio">Patio</string>
+    <string name="letsGoButton">Lets Build</string>
+    <string name="back">Back</string>
+    <string name="supplies">Supplies:</string>
+    <string name="instructions">Instructions:</string>
+    <string name="driver">Screw Driver</string>
+    <string name="smallScrew">Small Screws</string>
+    <string name="largerScrew">Large Screws</string>
+    <string name="sidePieces">Side Pieces</string>
+    <string name="drawers">Drawer Pieces</string>
+
+
+    <string name="wheels">Wheels</string>
+    <string name="pipes">Pipes</string>
+    <string name="pedal">Pedals</string>
+    <string name="handleGrip">Handle Grips</string>
+    <string name="largePieces">Large Pieces of Wood</string>
+    <string name="smallPiece">Small Pieces of Wood</string>
+
+    <string name="one">x1</string>
+    <string name="two">x2</string>
+    <string name="ten">x10</string>
+    <string name="fifteen">x15</string>
+    <string name="twentyfive">x25</string>
+</resources>
